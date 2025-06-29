@@ -1,0 +1,4 @@
+ID:3 Name: Sex: Age:3 Class: profession_grade:3 pro_eng_grade:3 program_design_grade:3 pro_math_grade:3
+ID:202312099 Name:周玄凌 Sex:男 Age:19 Class:2303 profession_grade:100 pro_eng_grade:100 program_design_grade:100 pro_math_grade:100
+ID:2 Name:2 Sex:2 Age:2 Class:2 profession_grade:2 pro_eng_grade:2 program_design_grade:2 pro_math_grade:2
+ID:4 Name:4 Sex:4 Age:4 Class:4 profession_grade:4 pro_eng_grade:4 program_design_grade:4 pro_math_grade:4

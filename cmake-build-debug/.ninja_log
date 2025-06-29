@@ -1,0 +1,7 @@
+# ninja log v5
+11	1069	7261346633150090	CMakeFiles/C__.dir/main.cpp.obj	5c98c0387a12f213
+2	1098	7261346634388331	CMakeFiles/C__.dir/Student.cpp.obj	622898fa6dda7c0f
+14	1219	7261346635334267	CMakeFiles/C__.dir/corefunc.cpp.obj	36539ede3628f976
+7	1632	7261346638310237	CMakeFiles/C__.dir/funclib.cpp.obj	7f1150a411ece0d8
+1632	2048	7261346643176179	C__.exe	a7ab1f8d55a9b75
+1	326	7396334383232958	build.ninja	520299812e41a595
